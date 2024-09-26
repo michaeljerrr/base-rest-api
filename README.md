@@ -5,7 +5,7 @@
 Metode app.get() digunakan untuk mendefinisikan route yang menangani permintaan GET.
 
 ```javascript
-app.get('/route', (req, res) => {
+app.get('/fitur', (req, res) => {
   res.send('Hello, World!');
 });
 ```
@@ -22,7 +22,7 @@ res: Objek respons yang digunakan untuk mengirimkan respons kembali ke klien.
 Metode res.send() digunakan untuk mengirimkan respons ke klien. Ini bisa berupa string, objek, array, atau buffer.
 
 ```javascript
-app.get('/json', (req, res) => {
+app.get('/fitur', (req, res) => {
   res.send({ message: 'Hello, JSON!' });
 });
 ```
@@ -100,3 +100,9 @@ app.listen(PORT, () => {
 ## Gak paham?
 
 tanya chat gpt wak, sekalian belajar
+api ini itu kek sc case, gampang kalo udah paham
+
+contoh: https://ind.vreden.my.id
+web full: https://api.vreden.my.id
+
+bocah esdehh nihh bos, modal copas and gpt🗿
