@@ -102,7 +102,8 @@ app.listen(PORT, () => {
 tanya chat gpt wak, sekalian belajar
 api ini itu kek sc case, gampang kalo udah paham
 
-contoh: https://ind.vreden.my.id
+contoh: https://home.vreden.my.id
+
 web full: https://api.vreden.my.id
 
 bocah esdehh nihh bos, modal copas and gpt🗿
